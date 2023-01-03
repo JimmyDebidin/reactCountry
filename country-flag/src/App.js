@@ -1,11 +1,8 @@
 import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 const App = () => {
-	return (
-		<div className="helloWord">
-			<h1>il etait unbe fois</h1>
-		</div>
-	);
+	return <div></div>;
 };
 
 export default App;
